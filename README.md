@@ -12,7 +12,7 @@ Projeyi klonlayın
 
 Proje dizinine gidin
 ```bash
-  cd reentrancy-attack 
+  cd yeniden-giris-atagi
 ```
 
 Bağımlılıkları yükleyin
