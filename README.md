@@ -7,7 +7,7 @@ Bu projeyi kullanmaya başlamak için, bu repo'yu klonlayın ve aşağıdaki kom
 
 Projeyi klonlayın
 ```bash
-  git clone git clone https://github.com/SCDEVSTR/yeniden-giris-atagi.git
+  git clone https://github.com/SCDEVSTR/yeniden-giris-atagi.git
 ```
 
 Proje dizinine gidin
